@@ -1,0 +1,88 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="style.css"></link>
+</head>
+<body>
+<div class="page">
+<div class="headerpart">
+<center>
+<a href="mailto:principal@vcet.ac.in"> principal@vcet.ac.in</a>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp&nbsp &nbsp&nbsp
+<a href="tel:0452 2465289"> call:0452 2465289</a>&nbsp
+</center></div>
+<div class="linkspart">
+<center>
+<a href="home.html">HOME</a>&nbsp
+<a href="home.html">ADMISSION</a>&nbsp
+<a href="home.html">ABOUT US</a>&nbsp
+<a href="home.html">ACADEMICS</a>&nbsp
+<a href="home.html">RESEARCH</a>&nbsp
+<a href="home.html">PLACEMENTS</a>&nbsp
+<a href="home.html">INFRASTRUCTURE</a>&nbsp
+<a href="home.html">ALUMNI</a>&nbsp
+<a href="home.html">CAREER GUIDANCE CELL</a>&nbsp
+</center></div>
+<div class="bodypart">
+<div class="imagepart"></div>
+  <div class="middlepart">
+<div class="events">
+  <h2>UPCOMING EVENTS</h2> 
+<marquee direction="up" height="90%">
+   <h3> One Click National Level Online Photography Contest 2021 </h3> <br>
+<p> Department of Civil engineering organizes " One click National Level online Photography Contest"
+     Theme : Impacts on Environment due to Modernization</p>
+<hr>
+<h3> Five Day Faculty Development Program On GREEN BUILDING PRACTICES </h3><br>
+<p> Today, with the development of economy, the construction industry has seen a phenomenal growth. 
+Globally, buildings are responsible for a huge shareof energy, electricity,
+ materials and water consumption. Green buildings provide the best solution to preserve
+ precious natural resources and improve our quality of life. </p>
+<hr>
+</marquee>
+
+</div>
+  <div class="centerpart">
+  <div class="captions">
+  <h3>NEWS</h3>
+<h4> NBA Accredited Institution.</h4><br>
+<h4> The college has been accredited with ‘A’ grade by NAAC.
+  VCET ranked 9th in TN and 20th in India among private
+Engineering Colleges for 2021-2022 by EducationWorld.</h4> <br>
+<h4> VCET ranked 7th in TN and 12th in India among private
+Engineering Colleges for 2020-21 by Education World.</h4><br>
+<h4> VCET is categorized as ‘Band Performer’ institution by Atal
+Ranking of Institutions on Innovation Achievement (ARIIA)
+2021.</h4><br>
+<h4> Our College has been ranked 9th in TN and
+ 20th in India among private 
+Engineering Colleges for 2021-2022 by Education World.</h4><br>
+</div></div></div></div>
+
+<div class="lastpart">
+<h5>QUICK LINKS</h5>
+<a href="opac.html">opac connect</a><br>
+&nbsp<a href="opac.html">NAAC</a><br>
+<a href="opac.html">NIRF</a><br>
+<a href="opac.html">ARIIA</a><br>
+<a href="opac.html">transport</a><br>
+<a href="opac.html">hr policy</a><br>
+<a href="opac.html">mandatory disclosure</a><br>
+<a href="opac.html">grievance redressal committee</a><br>
+<a href="opac.html">internal complaints committee</a><br>
+<h6>CONTACTS</h6>
+<p>Velammal College of Engineering and Technology,
+Madurai to Rameshwaram Highway, Viraganoor,
+Madurai-625 009.
+
+Phone: +91-452-2465289
+
+Mobile: +91-9994994991
+
+e-Mail: principal@vcet.ac.in</p></div>
+<div class="footerpart">
+<center><p>velammal collge of enginerring  and technology c 2021 |designed and developed by IT department</p></center></div>
+
+</div>
+
+</div>
+  </body>
+  </html>
